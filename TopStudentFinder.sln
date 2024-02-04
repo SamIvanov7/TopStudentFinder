@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopStudentFinder", "TopStudentFinder.csproj", "{F394BA57-6CCC-416F-9CE4-02EA64F55670}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F394BA57-6CCC-416F-9CE4-02EA64F55670}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F394BA57-6CCC-416F-9CE4-02EA64F55670}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F394BA57-6CCC-416F-9CE4-02EA64F55670}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F394BA57-6CCC-416F-9CE4-02EA64F55670}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC125BF4-7F81-497D-9442-504B7DCDDD5A}
+	EndGlobalSection
+EndGlobal
